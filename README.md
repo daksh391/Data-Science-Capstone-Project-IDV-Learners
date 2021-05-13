@@ -1,8 +1,8 @@
 # Data-Science-Capstone-Project-IDV-Learners
 
   TO RUN THE CODE, PLEASE DOWNLOAD the CSV FILE TO YOUR R DEFAULT WORKING DIRECTORY
-  
-##################################################################################################################################################################3
+  #####################################################################################################################################
+
 
  For this project, I have chosen the dataset "Pima Indians Diabetes Database" in Kaggle. It is a subset of the orginal dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. All patients in this dataset are females of atleast 21 years old and Pima Indian heritage. 
 
